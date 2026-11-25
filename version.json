@@ -1,0 +1,7 @@
+{
+  "version": "1.2.12",
+  "build": 16,
+  "url": "itms-services://?action=download-manifest&url=https://chaproject.github.io/manifest.plist",
+  "updatedAt": "2026-11-25T15:32:07Z",
+  "releaseNotes": "Versió 1.2.12: Detecció automàtica de xats (text als 2 costats) i nou apartat de Xat dins de cada perfil."
+}
